@@ -6,6 +6,7 @@ class Book
   end
   
   def turn_page(page_count)
-    @page_count = page_count + 1
+    "Flipping the page...wow, you read fast!"
+  end
   
 end
